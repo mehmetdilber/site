@@ -25,6 +25,6 @@ define('DIR_CATALOG', '/var/www/html/releases/1/catalog/');
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '6d189eb90f7ed114aaa8ea2e2b40c8787cce7973f9351f82');
+define('DB_PASSWORD', 'databasepassword');
 define('DB_DATABASE', 'arcelik');
 define('DB_PREFIX', 'oc_');
